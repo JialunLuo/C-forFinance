@@ -1,0 +1,11 @@
+i.
+(7.27141, 6.03289, 7.48564, 9.42305)
+ii.
+4.10295 4.77056 4.3216 3.71011
+iii.
+dot product: 10.9292, angle: 0.978378
+dot product: 15.3838, angle: 0.520431
+dot product: 12.2027, angle: 0.640781
+dot product: 14.7181, angle: 0.775742
+dot product: 13.5036, angle: 0.702936
+dot product: 14.2948, angle: 0.470034
